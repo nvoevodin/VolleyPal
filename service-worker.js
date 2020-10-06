@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/volleypal/precache-manifest.b94566e03a0b8b2315bcf542a9faa670.js"
+  "/volleypal/precache-manifest.fd238bdc6d8b0736ffbf3458745f0b23.js"
 );
 
 self.addEventListener('message', (event) => {
