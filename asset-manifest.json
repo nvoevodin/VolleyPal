@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/nvoevodin/VolleyPal/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/nvoevodin/VolleyPal/static/js/main.1f823d9a.chunk.js",
-    "main.js.map": "/nvoevodin/VolleyPal/static/js/main.1f823d9a.chunk.js.map",
-    "runtime-main.js": "/nvoevodin/VolleyPal/static/js/runtime-main.b99541eb.js",
-    "runtime-main.js.map": "/nvoevodin/VolleyPal/static/js/runtime-main.b99541eb.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/nvoevodin/VolleyPal/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.9159a5fa.chunk.js": "/nvoevodin/VolleyPal/static/js/2.9159a5fa.chunk.js",
-    "static/js/2.9159a5fa.chunk.js.map": "/nvoevodin/VolleyPal/static/js/2.9159a5fa.chunk.js.map",
-    "index.html": "/nvoevodin/VolleyPal/index.html",
-    "precache-manifest.7cf41925d8e431c5356d6756fc24a50c.js": "/nvoevodin/VolleyPal/precache-manifest.7cf41925d8e431c5356d6756fc24a50c.js",
-    "service-worker.js": "/nvoevodin/VolleyPal/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/nvoevodin/VolleyPal/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/nvoevodin/VolleyPal/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.9159a5fa.chunk.js.LICENSE.txt": "/nvoevodin/VolleyPal/static/js/2.9159a5fa.chunk.js.LICENSE.txt",
-    "static/media/Volleyball.jpg": "/nvoevodin/VolleyPal/static/media/Volleyball.4690cb38.jpg",
-    "static/media/androidQR.png": "/nvoevodin/VolleyPal/static/media/androidQR.d11ea3fa.png",
-    "static/media/iosQR.png": "/nvoevodin/VolleyPal/static/media/iosQR.1d32c373.png"
+    "main.css": "/VolleyPal/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/VolleyPal/static/js/main.dd48cd1a.chunk.js",
+    "main.js.map": "/VolleyPal/static/js/main.dd48cd1a.chunk.js.map",
+    "runtime-main.js": "/VolleyPal/static/js/runtime-main.4b8d2156.js",
+    "runtime-main.js.map": "/VolleyPal/static/js/runtime-main.4b8d2156.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/VolleyPal/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.9159a5fa.chunk.js": "/VolleyPal/static/js/2.9159a5fa.chunk.js",
+    "static/js/2.9159a5fa.chunk.js.map": "/VolleyPal/static/js/2.9159a5fa.chunk.js.map",
+    "index.html": "/VolleyPal/index.html",
+    "precache-manifest.62ac66505d91b4fedad3fa6b44704719.js": "/VolleyPal/precache-manifest.62ac66505d91b4fedad3fa6b44704719.js",
+    "service-worker.js": "/VolleyPal/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/VolleyPal/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/VolleyPal/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.9159a5fa.chunk.js.LICENSE.txt": "/VolleyPal/static/js/2.9159a5fa.chunk.js.LICENSE.txt",
+    "static/media/Volleyball.jpg": "/VolleyPal/static/media/Volleyball.4690cb38.jpg",
+    "static/media/androidQR.png": "/VolleyPal/static/media/androidQR.d11ea3fa.png",
+    "static/media/iosQR.png": "/VolleyPal/static/media/iosQR.1d32c373.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b99541eb.js",
+    "static/js/runtime-main.4b8d2156.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.9159a5fa.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.1f823d9a.chunk.js"
+    "static/js/main.dd48cd1a.chunk.js"
   ]
 }
