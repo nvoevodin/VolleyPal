@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/nvoevodin/VolleyPal/precache-manifest.5e9e06f83c736243593e019a9755ffaa.js"
+  "/nvoevodin/VolleyPal/precache-manifest.7cf41925d8e431c5356d6756fc24a50c.js"
 );
 
 self.addEventListener('message', (event) => {
